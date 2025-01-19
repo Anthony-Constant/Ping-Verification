@@ -10,6 +10,10 @@ This script requires Python 3 to be installed on your machine.
 
 The script uses the `os` module to execute the Ping command in the command prompt. It then captures the output of the command to determine whether the Ping was successful or not.
 
+## Demo
+
+https://youtu.be/PlNFv_LSVhU
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
